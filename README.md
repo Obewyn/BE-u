@@ -5,20 +5,16 @@
 
 BE-u is an app that enables users to produce unedited short videos, which are immediately uploaded and shared with the user's subscribers, without the ability to preview the video. Users respond to shared content by sending "reactions", photographs of themselves, back to the video uploader .
 
-Main.storyboard file contain the designed user interface elements. elements are connected to ViewController.swift file by creating outlets and actions as needed to handle user interactions and update the UI programmatically
+🎉 Welcome to the BE-U Application Project! 🚀
 
-representation of the storyboard:
+Dear Contributors,
 
-There is a ViewController containing a UIView for displaying the camera preview and a UIButton for recording videos.
-The UIView has a gray background color and occupies the top portion of the screen.
-The UIButton is positioned below the UIView and labeled "Record".
+We're thrilled to have you join our team and contribute to the development of BE-U, our innovative iOS application designed to empower users with seamless video sharing experiences.
 
-necessary keys for camera and microphone permission are in Info.plist 
+At BE-U, we believe in collaboration, creativity, and continuous improvement. Your contributions are incredibly valuable as we work together to build a platform that not only meets the needs of our users but exceeds their expectations.
 
-In this Info.plist file:
+Whether you're a seasoned developer, UI/UX designer, tester, or someone passionate about making a difference in the world of mobile apps, there's a place for you here. Your unique skills and perspectives enrich our project and help us achieve our goals faster and more effectively.
 
-<key>NSCameraUsageDescription</key>: Describes why your app requires access to the device's camera. This key is required for accessing the camera.
-<key>NSMicrophoneUsageDescription</key>: Describes why your app requires access to the device's microphone. This key is required if your app records audio.
-Make sure to replace "This app requires access to your camera to record videos." and "This app requires access to your microphone to record audio." with appropriate descriptions for your app's use case.
+Remember that your ideas, feedback, and efforts are greatly appreciated. Don't hesitate to share your thoughts, ask questions, or propose improvements – we're all in this together.
 
-You can add these keys to your Info.plist file by opening it in Xcode and selecting the "+" button to add a new row, then entering the key-value pairs as shown above.
+Thank you !, let's make BE-U the best it can be!
