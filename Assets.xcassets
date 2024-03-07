@@ -1,0 +1,31 @@
+Assets.xcassets
+│
+├── AppIcon.appiconset
+│   ├── Contents.json
+│   ├── icon-20.png
+│   ├── icon-20@2x.png
+│   ├── icon-20@3x.png
+│   ├── icon-29.png
+│   ├── icon-29@2x.png
+│   ├── icon-29@3x.png
+│   ├── icon-40.png
+│   ├── icon-40@2x.png
+│   ├── icon-40@3x.png
+│   ├── icon-60@2x.png
+│   ├── icon-60@3x.png
+│   └── icon-76.png
+│
+├── LaunchImage.launchimage
+│   ├── Contents.json
+│   ├── launch-image-640x960.png
+│   ├── launch-image-640x1136.png
+│   ├── launch-image-750x1334.png
+│   ├── launch-image-1242x2208.png
+│   ├── launch-image-1125x2436.png
+│   └── launch-image-1242x2688.png
+│
+└── SomeImageSet.imageset
+    ├── Contents.json
+    ├── image.png
+    ├── image@2x.png
+    └── image@3x.png
