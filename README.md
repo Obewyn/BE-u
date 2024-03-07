@@ -3,11 +3,13 @@
 
 
 
-BE-u is an app that enables users to produce unedited short videos, which are immediately uploaded and shared with the user's subscribers, without the ability to preview the video. Users respond to shared content by sending "reactions", photographs of themselves, back to the video uploader .
+BE-u is an ios app that enables users to produce unedited short videos, which are immediately uploaded and shared with the user's subscribers, without the ability to preview the video. Users respond to shared content by sending "reactions", photographs of themselves, back to the video uploader .
 
 🎉 Welcome to the BE-U Application Project! 🚀
 
 Dear Contributors,
+
+Developing the BE-u application single-handedly poses significant challenges primarily due to the scarcity of time and the complexity of the project. Crafting a feature-rich and polished app like BE-u demands meticulous attention to detail at every stage of development, from conceptualization to deployment. As a solo developer, the responsibility of designing the user interface, implementing functionality, ensuring compatibility across various devices, and debugging issues falls solely on one's shoulders. Moreover, time constraints further exacerbate the situation, as the process requires substantial dedication and effort. Without the support and collaboration of a team, tasks that could be distributed and executed efficiently become overwhelming obstacles to overcome alone. In essence, the lack of time and the magnitude of the project's intricacies underscore the formidable challenge of developing BE-u without a team.
 
 We're thrilled to have you join our team and contribute to the development of BE-U, our innovative iOS application designed to empower users with seamless video sharing experiences.
 
